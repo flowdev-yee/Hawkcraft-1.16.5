@@ -14,4 +14,4 @@ Only a few people are let on at a time to save server resources. This is because
 
 **How to play:**
 
-Coming Soon!
+Coming Soon! To be ready, you can download the HTML file in Releases!
