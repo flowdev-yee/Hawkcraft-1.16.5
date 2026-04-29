@@ -1,6 +1,6 @@
-**Hawkcraft 1.16.5**
+## Hawkcraft 1.16.5
 
-## Minecraft 1.16.5 running in a browser!
+**Minecraft 1.16.5 running in a browser!**
 
 ---
 
